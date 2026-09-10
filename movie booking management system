@@ -1,5 +1,5 @@
 MOVIE BOOKING MANAGEMENT SYSTEM
-version 1.0
+version 1.1
 Specifications:
 1.Booking Tickets
 2.Movie list
@@ -7,3 +7,4 @@ Specifications:
 4.Cancel Booking
 5.Profile
 6.Seats availability
+7.Cancel Booking
